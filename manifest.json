@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "version": 2,
+  "updatedAt": "2026-07-17T20:53:30.029Z",
+  "files": [
+    {
+      "path": "Blockbench Models/Duck Crown.bbmodel",
+      "hash": "76b2dc822f6f9644b851e9c60667f1b9d64b0cbdd4f23b7207f328711963c269",
+      "size": 62927
+    },
+    {
+      "path": "Blockbench Models/Vogel Cape.bbmodel",
+      "hash": "bf6e86d3bfb128e45c8090395706c1ac843a6b869281a2f0b35709e298c8b10d",
+      "size": 1530335
+    },
+    {
+      "path": "cosmetic_models/Duck Crown/Duck Crown.json",
+      "hash": "b4d5473ebf06fc3e26e05a4197724d4e6d1e446e663aa4d918437e979e593b3a",
+      "size": 40381
+    },
+    {
+      "path": "cosmetic_models/Duck Crown/textures/crown_high.png",
+      "hash": "4b1cf9c71c149a0728f23472e2fe24932bbe7433c384ad59ca3c31b5884451ec",
+      "size": 1579
+    },
+    {
+      "path": "cosmetic_models/Duck Crown/textures/crown_low.png",
+      "hash": "6a069afceceeea4ee27b5535108c77ff09f46e31ac1abe047039dcdfeb1c3bcf",
+      "size": 1752
+    },
+    {
+      "path": "cosmetic_models/Duck Crown/textures/duck.png",
+      "hash": "b285c7a68db337962eabb813057692c72e9c440015577615f8742df6e102796a",
+      "size": 990
+    },
+    {
+      "path": "cosmetic_models/Duck Crown/textures/nest.png",
+      "hash": "0432b496f9a2fe2e6e11c8b378124272f42a71949e30f7341e5c6f2726257df9",
+      "size": 2403
+    },
+    {
+      "path": "cosmetic_models/Vogel Cape/textures/vogel.png",
+      "hash": "f1837e6f6ae686e8af47ea59f532ec3804a14a6306485c7cf132863d3719ee84",
+      "size": 1146418
+    },
+    {
+      "path": "cosmetic_models/Vogel Cape/Vogel Cape.json",
+      "hash": "1726da46951ade12d16ef7c76d30103f689e126b295e75b1f9fd631ab353b449",
+      "size": 800
+    },
+    {
+      "path": "textures/Duck Crown/crown_high.png",
+      "hash": "801ce47539eb51fd84f0dad847eb08114f8ba07c0783cb6d8e0ea10edf2c14d5",
+      "size": 1267
+    },
+    {
+      "path": "textures/Duck Crown/crown_low.png",
+      "hash": "7d83ef1a4802d9619525be3fa626520c96e9824b5f25c2293e4c74229b167b2d",
+      "size": 1407
+    },
+    {
+      "path": "textures/Duck Crown/duck.png",
+      "hash": "90737fbb2a51e4b2f8dd5719ce68a5c13759e1a14e3995470aa27bf088e6d1d4",
+      "size": 964
+    },
+    {
+      "path": "textures/Duck Crown/nest.png",
+      "hash": "aba347306fb174e3e7e76bf6edc5a3b1cdb921797cf7cb69b30e81a0f1520123",
+      "size": 1992
+    }
+  ]
+}
